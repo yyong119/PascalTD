@@ -1,6 +1,6 @@
 # juniorHighPoorGame
 
-It's a pascal game that was made when we’re in junior high school. We were training for NOIP at that time.
+It's a pascal game that was made when we’re in junior high school. We were training for NOIP at that time. And I'd sincerely thank lyk.
 
 ## Environment
 
